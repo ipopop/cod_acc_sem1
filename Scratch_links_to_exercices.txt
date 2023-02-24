@@ -3,4 +3,46 @@ Scratch niveau 1 :
     l’avatar puisse dire « Hello World! ».
     
 Link :
-  
+  https://scratch.mit.edu/projects/809136811
+
+---------------------------------------------------------------
+
+Scratch niveau 2 :
+  - Créer un nouveau projet et faire en sorte que l’avatar se déplace de 30 pas vers la droite.
+    
+Link :
+    
+
+---------------------------------------------------------------
+
+Scratch niveau 3 :
+  - Créer un nouveau projet qui fait la même chose
+    que le projet précédent
+    en utilisant au minimum 3 blocs Scratch.
+    
+Link :
+    
+
+---------------------------------------------------------------
+
+Scratch niveau 4 :
+  - Créer un nouveau projet qui fait en sorte que
+    l’avatar avance jusqu’au bord de l’écran
+    puis fait demi-tour,
+    avance jusqu’à l’autre bord
+    puis fait demi-tour,
+    et ainsi de suite à l’infini,
+    en maximum 4 blocs.
+    
+Link :
+    
+
+---------------------------------------------------------------
+
+Scratch niveau 5 :
+  - F.
+    
+Link :
+    
+
+---------------------------------------------------------------
