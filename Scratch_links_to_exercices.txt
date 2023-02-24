@@ -1,0 +1,6 @@
+Scratch niveau 1 :
+  - Faire en sorte que lorsque l’on clique sur le drapeau vert
+    l’avatar puisse dire « Hello World! ».
+    
+Link :
+  
