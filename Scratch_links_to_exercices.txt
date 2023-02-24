@@ -11,7 +11,7 @@ Scratch niveau 2 :
   - Créer un nouveau projet et faire en sorte que l’avatar se déplace de 30 pas vers la droite.
     
 Link :
-    
+  https://scratch.mit.edu/projects/809144283
 
 ---------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Scratch niveau 3 :
     en utilisant au minimum 3 blocs Scratch.
     
 Link :
-    
+  https://scratch.mit.edu/projects/809145937
 
 ---------------------------------------------------------------
 
@@ -35,14 +35,19 @@ Scratch niveau 4 :
     en maximum 4 blocs.
     
 Link :
-    
+  https://scratch.mit.edu/projects/809147071
 
 ---------------------------------------------------------------
 
 Scratch niveau 5 :
-  - F.
+  - Créer un nouveau projet qui fait en sorte que
+    l’avatar fait la même chose que pour le projet précédent,
+    mais pour un nombre de pas définis à l’avance dans une variable.
+    Exemple : au bout de 500 pas,
+    l’avatar s’arrête de rebondir entre les bords de l’écran.
+    Utilisez au maximum 6 blocs.
     
 Link :
-    
+  https://scratch.mit.edu/projects/809150708
 
 ---------------------------------------------------------------
